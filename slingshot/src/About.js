@@ -17,11 +17,11 @@ function About() {
               About Our Pricing
             </h1>
             <p className="fs-5 text-body-secondary">
-              At SlingShot, we believe in transparent and flexible pricing that
-              fits the unique needs of our customers. Our goal is to provide
-              exceptional value and service at competitive rates. Whether you're
-              a small startup or a large enterprise, we have pricing plans
-              designed to scale with your business.
+              At Capital One, we believe in transparent and flexible pricing
+              that fits the unique needs of our customers. Our goal is to
+              provide exceptional value and service at competitive rates.
+              Whether you're a small startup or a large enterprise, we have
+              pricing plans designed to scale with your business.
             </p>
           </div>
         </header>
